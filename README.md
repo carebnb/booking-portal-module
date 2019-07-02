@@ -16,4 +16,6 @@ Booking portal component for a home-sharing app.
 7. Run server with `npm start`
 
 ## Demo
-<img src="booking-module.gif?raw=true" width="640px">
+<p align="center">
+  <img src="demo-hd.gif?raw=true" width="640px">
+</p>
