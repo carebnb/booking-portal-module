@@ -17,5 +17,5 @@ Booking portal component for a home-sharing app.
 
 ## Demo
 <p align="center">
-  <img src="demo2.gif?raw=true" width="640px">
+  <img src="demo-hd.gif?raw=true" width="750px">
 </p>
