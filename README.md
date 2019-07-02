@@ -16,4 +16,4 @@ Booking portal component for a home-sharing app.
 7. Run server with `npm start`
 
 ## Demo
-![gif](https://carebnb-gifs.s3-us-west-1.amazonaws.com/booking-module-gif.gif)
+<img src="booking-module.gif?raw=true" width="640px">
